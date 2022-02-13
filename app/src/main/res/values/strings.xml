@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwiggyApp</string>
+    <string name="enter_movie_name">Enter movie Name</string>
+    <string name="search_movie">Search Movie</string>
+</resources>
